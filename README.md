@@ -11,4 +11,5 @@ Por lo tanto, la clínica necesita una aplicación móvil que permita un acceso 
 Link Trello:
 https://trello.com/invite/b/Yxjbtthk/ATTIfc31467eb2f9f2163c18764a2b1590caF81EE5D2/clinica-veterinaria
 
-Se utilizo GIT para versionar el codigo
+Link manual de usuario PDF:
+https://drive.google.com/file/d/1xCOD-fXGy7drUW6g01-4V_RT3tv0E0o8/view?usp=drive_link
