@@ -8,6 +8,9 @@ ______________________________________________
 
 Aclaracion: el proyecto se subio de forma manual y no utilizando el versionador GIT por problemas con el mismo a la hora de ejecutar el comando "git commit -m"
 
+Link del video:
+https://drive.google.com/file/d/12dEanHdPXamBRs__gL7DRXKIj0N9eT7S/view?usp=sharing
+
 Link Trello:
 https://trello.com/invite/b/Yxjbtthk/ATTIfc31467eb2f9f2163c18764a2b1590caF81EE5D2/clinica-veterinaria
 
